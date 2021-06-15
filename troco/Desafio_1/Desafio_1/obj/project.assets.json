@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Cursos\\programacao\\IMPACTA\\C#\\Exercício_1\\Desafio_1\\Desafio_1\\Desafio_1.csproj",
+      "projectUniqueName": "D:\\Cursos\\programacao\\IMPACTA\\C#\\troco\\Desafio_1\\Desafio_1\\Desafio_1.csproj",
       "projectName": "Desafio_1",
-      "projectPath": "D:\\Cursos\\programacao\\IMPACTA\\C#\\Exercício_1\\Desafio_1\\Desafio_1\\Desafio_1.csproj",
+      "projectPath": "D:\\Cursos\\programacao\\IMPACTA\\C#\\troco\\Desafio_1\\Desafio_1\\Desafio_1.csproj",
       "packagesPath": "C:\\Users\\pride\\.nuget\\packages\\",
-      "outputPath": "D:\\Cursos\\programacao\\IMPACTA\\C#\\Exercício_1\\Desafio_1\\Desafio_1\\obj\\",
+      "outputPath": "D:\\Cursos\\programacao\\IMPACTA\\C#\\troco\\Desafio_1\\Desafio_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pride\\AppData\\Roaming\\NuGet\\NuGet.Config",

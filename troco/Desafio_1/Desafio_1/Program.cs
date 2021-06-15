@@ -9,7 +9,6 @@ namespace Desafio_1
 
             
             double valorProduto = 0, valorPago = 0, troco = 0;
-            int i = 0;
             string valorPagoSolicitado = " ", valorProdutoSolicitado = " ";
 
             do
@@ -22,10 +21,13 @@ namespace Desafio_1
                 
                 Console.WriteLine("Digte o valor do pago: ");
                 valorPagoSolicitado = Console.ReadLine();
+
+
+                
                 
 
 
-                if (valorProdutoSolicitado != " " && valorPagoSolicitado != " ")
+                if (valorProdutoSolicitado != string.Empty && valorPagoSolicitado != string.Empty ||)
                 {
                     
                     valorProduto = Convert.ToDouble(valorProdutoSolicitado);
@@ -61,7 +63,8 @@ namespace Desafio_1
                     Console.WriteLine("Você não tem poder aquisitivo para esta compra (POBRE)");
                 }*/
 
-            } while (valorProdutoSolicitado != " " || valorPagoSolicitado != " ");
+            } while (valorProdutoSolicitado != string.Empty && valorPagoSolicitado != string.Empty);
+            Console.WriteLine("Ops, something is wrong!");
         }
     }
 }
