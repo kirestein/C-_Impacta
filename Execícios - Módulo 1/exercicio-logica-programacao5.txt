@@ -1,0 +1,9 @@
+Somar os dígitos de um número inteiro:
+
+Faça um programa para somar os dígitos de um inteiro que será informado pelo usuário, e sem utilizar recursos de string, ou seja, trabalhe apenas com tipos numéricos.
+
+Por exemplo, imagine que o usuário informou o número 2015. Devemos então somar seus dígitos:
+
+2  +  0 +  1 +  5
+
+O resultado esperado para o número acima seria 8.

@@ -1,0 +1,5 @@
+Ordenando números
+
+Construa uma função que receberá 10 números inteiros do usuário. Certifique-se de que todos os caracteres que foram informados pelo usuário são números e não letras.
+
+Construa outra função que irá ordenar todos os números informados pelo usuário, e imprimir estes números de forma ordenada.

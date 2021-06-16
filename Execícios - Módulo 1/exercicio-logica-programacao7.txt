@@ -1,0 +1,5 @@
+Empilhar números e invertê-los de posição
+
+Construa uma função que irá preencher um Array com 10 números informados pelo usuário. Tome todas as precauções para que o usuário não informe uma letra, ele deverá informar apenas um número INTEIRO.
+
+Construa uma outra função que irá ler as 10 posições de forma decrescente e que imprima estes números nesta ordem.

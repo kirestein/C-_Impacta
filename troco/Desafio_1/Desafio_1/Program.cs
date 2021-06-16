@@ -14,19 +14,13 @@ namespace Desafio_1
             do
             {
 
-
-
                 Console.WriteLine("Digte o valor do produto: ");
                 valorProdutoSolicitado = Console.ReadLine();
                 
                 Console.WriteLine("Digte o valor do pago: ");
                 valorPagoSolicitado = Console.ReadLine();
 
-
                 
-                
-
-
                 if (valorProdutoSolicitado != string.Empty && valorPagoSolicitado != string.Empty ||)
                 {
                     
@@ -45,23 +39,6 @@ namespace Desafio_1
                     else if (valorProduto > valorPago)
                         Console.WriteLine("Você não tem poder aquisitivo para esta compra (POBRE)");
                 }
-
-                /*if (valorPago >= valorProduto)
-                {
-                    if (valorPago == valorProduto)
-                    {
-                        Console.WriteLine("Não há troco");
-                    }
-                    else
-                    {
-                        troco = valorPago - valorProduto;
-                        Console.WriteLine("O seu troco é: " + troco);
-                    }
-                }
-                else
-                {
-                    Console.WriteLine("Você não tem poder aquisitivo para esta compra (POBRE)");
-                }*/
 
             } while (valorProdutoSolicitado != string.Empty && valorPagoSolicitado != string.Empty);
             Console.WriteLine("Ops, something is wrong!");

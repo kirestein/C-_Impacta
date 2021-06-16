@@ -24,3 +24,16 @@ D:\DOWNLOAD\Nova pasta\Nova pasta\Caixa_eletronico\Caixa_eletronico\obj\Debug\ne
 D:\DOWNLOAD\Nova pasta\Nova pasta\Caixa_eletronico\Caixa_eletronico\obj\Debug\netcoreapp3.1\Caixa_eletronico.dll
 D:\DOWNLOAD\Nova pasta\Nova pasta\Caixa_eletronico\Caixa_eletronico\obj\Debug\netcoreapp3.1\Caixa_eletronico.pdb
 D:\DOWNLOAD\Nova pasta\Nova pasta\Caixa_eletronico\Caixa_eletronico\obj\Debug\netcoreapp3.1\Caixa_eletronico.genruntimeconfig.cache
+D:\Cursos\programacao\IMPACTA\C#\Caixa_eletronico\Caixa_eletronico\bin\Debug\netcoreapp3.1\Caixa_eletronico.exe
+D:\Cursos\programacao\IMPACTA\C#\Caixa_eletronico\Caixa_eletronico\bin\Debug\netcoreapp3.1\Caixa_eletronico.deps.json
+D:\Cursos\programacao\IMPACTA\C#\Caixa_eletronico\Caixa_eletronico\bin\Debug\netcoreapp3.1\Caixa_eletronico.runtimeconfig.json
+D:\Cursos\programacao\IMPACTA\C#\Caixa_eletronico\Caixa_eletronico\bin\Debug\netcoreapp3.1\Caixa_eletronico.runtimeconfig.dev.json
+D:\Cursos\programacao\IMPACTA\C#\Caixa_eletronico\Caixa_eletronico\bin\Debug\netcoreapp3.1\Caixa_eletronico.dll
+D:\Cursos\programacao\IMPACTA\C#\Caixa_eletronico\Caixa_eletronico\bin\Debug\netcoreapp3.1\Caixa_eletronico.pdb
+D:\Cursos\programacao\IMPACTA\C#\Caixa_eletronico\Caixa_eletronico\obj\Debug\netcoreapp3.1\Caixa_eletronico.csproj.AssemblyReference.cache
+D:\Cursos\programacao\IMPACTA\C#\Caixa_eletronico\Caixa_eletronico\obj\Debug\netcoreapp3.1\Caixa_eletronico.AssemblyInfoInputs.cache
+D:\Cursos\programacao\IMPACTA\C#\Caixa_eletronico\Caixa_eletronico\obj\Debug\netcoreapp3.1\Caixa_eletronico.AssemblyInfo.cs
+D:\Cursos\programacao\IMPACTA\C#\Caixa_eletronico\Caixa_eletronico\obj\Debug\netcoreapp3.1\Caixa_eletronico.csproj.CoreCompileInputs.cache
+D:\Cursos\programacao\IMPACTA\C#\Caixa_eletronico\Caixa_eletronico\obj\Debug\netcoreapp3.1\Caixa_eletronico.dll
+D:\Cursos\programacao\IMPACTA\C#\Caixa_eletronico\Caixa_eletronico\obj\Debug\netcoreapp3.1\Caixa_eletronico.pdb
+D:\Cursos\programacao\IMPACTA\C#\Caixa_eletronico\Caixa_eletronico\obj\Debug\netcoreapp3.1\Caixa_eletronico.genruntimeconfig.cache
