@@ -2,9 +2,30 @@ Descobrir se os lados informados formam ou não um triângulo
 
 Dados 3 valores quaisquer informados pelo usuário (a, b e c) representando as medidas dos lados de um triângulo, faça um algoritmo para descobrir se formam ou não um triângulo.
 
-Saiba que para formar um triângulo, o valor de cada lado deve ser menor que a soma dos outros 2 lados.
+Saiba que para formar um triângulo, o valor do maior lado deve ser menor que a soma dos outros 2 lados.
 
 - ‘a’, ‘b’, e ‘c’ devem formam um triângulo, a função retorna e imprime "É um triângulo"
 - se as medidas não formam um triângulo, a função retorna e imprime "NÃO é um triângulo"
 
 Utilize programação orientada a objetos.
+
+a = 3
+b = 4
+c = 5
+
+
+
+
+se a > b e a > c
+ se a < b + c ok
+ ou não é um triângulo
+se b > a e b > c
+ b < a + c ok
+ ou não é um triângulo
+se c > a e c > b 
+ c < a + b ok
+ ou não é um triângulo
+
+a² = b² + c² triângulo Retângulo 
+a² > b² + c² triângulo obtsângulo 
+a² < b² + c² triângulo acutângulo

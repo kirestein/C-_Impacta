@@ -10,9 +10,9 @@ nulos
 
 Faça uma classe com 3 métodos que calculam:
 
-- o percentual do votos válidos em relação ao total de eleitores,
-- o percentual de brancos em relação ao total de eleitores
-- o percentual de nulos em relação ao total de eleitores.
+- o percentual do votos válidos em relação ao total de eleitores, percentualVotosValidos = validos / totalDeEleitores
+- o percentual de brancos em relação ao total de eleitores, percentualBrancos = votosBrancos / totalDeEleitores
+- o percentual de nulos em relação ao total de eleitores. percentualNulos = nulos / totalDeEleitores
 
 Dica: “em relação ao total” significa que você deve dividir, por exemplo, “nulos” pelo total de eleitores, válidos pelo total de eleitores, etc…
 
