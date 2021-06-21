@@ -1,0 +1,13 @@
+D:\Cursos\programacao\IMPACTA\C#\CondicaoDeExixtenciaDeTriangulo\CondicaoDeExixtenciaDeTriangulo\bin\Debug\netcoreapp3.1\CondicaoDeExixtenciaDeTriangulo.exe
+D:\Cursos\programacao\IMPACTA\C#\CondicaoDeExixtenciaDeTriangulo\CondicaoDeExixtenciaDeTriangulo\bin\Debug\netcoreapp3.1\CondicaoDeExixtenciaDeTriangulo.deps.json
+D:\Cursos\programacao\IMPACTA\C#\CondicaoDeExixtenciaDeTriangulo\CondicaoDeExixtenciaDeTriangulo\bin\Debug\netcoreapp3.1\CondicaoDeExixtenciaDeTriangulo.runtimeconfig.json
+D:\Cursos\programacao\IMPACTA\C#\CondicaoDeExixtenciaDeTriangulo\CondicaoDeExixtenciaDeTriangulo\bin\Debug\netcoreapp3.1\CondicaoDeExixtenciaDeTriangulo.runtimeconfig.dev.json
+D:\Cursos\programacao\IMPACTA\C#\CondicaoDeExixtenciaDeTriangulo\CondicaoDeExixtenciaDeTriangulo\bin\Debug\netcoreapp3.1\CondicaoDeExixtenciaDeTriangulo.dll
+D:\Cursos\programacao\IMPACTA\C#\CondicaoDeExixtenciaDeTriangulo\CondicaoDeExixtenciaDeTriangulo\bin\Debug\netcoreapp3.1\CondicaoDeExixtenciaDeTriangulo.pdb
+D:\Cursos\programacao\IMPACTA\C#\CondicaoDeExixtenciaDeTriangulo\CondicaoDeExixtenciaDeTriangulo\obj\Debug\netcoreapp3.1\CondicaoDeExixtenciaDeTriangulo.csproj.AssemblyReference.cache
+D:\Cursos\programacao\IMPACTA\C#\CondicaoDeExixtenciaDeTriangulo\CondicaoDeExixtenciaDeTriangulo\obj\Debug\netcoreapp3.1\CondicaoDeExixtenciaDeTriangulo.AssemblyInfoInputs.cache
+D:\Cursos\programacao\IMPACTA\C#\CondicaoDeExixtenciaDeTriangulo\CondicaoDeExixtenciaDeTriangulo\obj\Debug\netcoreapp3.1\CondicaoDeExixtenciaDeTriangulo.AssemblyInfo.cs
+D:\Cursos\programacao\IMPACTA\C#\CondicaoDeExixtenciaDeTriangulo\CondicaoDeExixtenciaDeTriangulo\obj\Debug\netcoreapp3.1\CondicaoDeExixtenciaDeTriangulo.csproj.CoreCompileInputs.cache
+D:\Cursos\programacao\IMPACTA\C#\CondicaoDeExixtenciaDeTriangulo\CondicaoDeExixtenciaDeTriangulo\obj\Debug\netcoreapp3.1\CondicaoDeExixtenciaDeTriangulo.dll
+D:\Cursos\programacao\IMPACTA\C#\CondicaoDeExixtenciaDeTriangulo\CondicaoDeExixtenciaDeTriangulo\obj\Debug\netcoreapp3.1\CondicaoDeExixtenciaDeTriangulo.pdb
+D:\Cursos\programacao\IMPACTA\C#\CondicaoDeExixtenciaDeTriangulo\CondicaoDeExixtenciaDeTriangulo\obj\Debug\netcoreapp3.1\CondicaoDeExixtenciaDeTriangulo.genruntimeconfig.cache
