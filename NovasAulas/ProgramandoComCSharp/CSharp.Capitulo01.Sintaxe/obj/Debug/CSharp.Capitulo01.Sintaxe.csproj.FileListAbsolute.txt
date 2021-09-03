@@ -1,0 +1,10 @@
+D:\Cursos\programacao\IMPACTA\C#\NovasAulas\ProgramandoComCSharp\CSharp.Capitulo01.Sintaxe\obj\Debug\CSharp.Capitulo01.Sintaxe.csproj.AssemblyReference.cache
+D:\Cursos\programacao\IMPACTA\C#\NovasAulas\ProgramandoComCSharp\CSharp.Capitulo01.Sintaxe\obj\Debug\CSharp.Capitulo01.Sintaxe.VariaveisForm.resources
+D:\Cursos\programacao\IMPACTA\C#\NovasAulas\ProgramandoComCSharp\CSharp.Capitulo01.Sintaxe\obj\Debug\CSharp.Capitulo01.Sintaxe.Properties.Resources.resources
+D:\Cursos\programacao\IMPACTA\C#\NovasAulas\ProgramandoComCSharp\CSharp.Capitulo01.Sintaxe\obj\Debug\CSharp.Capitulo01.Sintaxe.csproj.GenerateResource.cache
+D:\Cursos\programacao\IMPACTA\C#\NovasAulas\ProgramandoComCSharp\CSharp.Capitulo01.Sintaxe\obj\Debug\CSharp.Capitulo01.Sintaxe.csproj.CoreCompileInputs.cache
+D:\Cursos\programacao\IMPACTA\C#\NovasAulas\ProgramandoComCSharp\CSharp.Capitulo01.Sintaxe\bin\Debug\CSharp.Capitulo01.Sintaxe.exe.config
+D:\Cursos\programacao\IMPACTA\C#\NovasAulas\ProgramandoComCSharp\CSharp.Capitulo01.Sintaxe\bin\Debug\CSharp.Capitulo01.Sintaxe.exe
+D:\Cursos\programacao\IMPACTA\C#\NovasAulas\ProgramandoComCSharp\CSharp.Capitulo01.Sintaxe\bin\Debug\CSharp.Capitulo01.Sintaxe.pdb
+D:\Cursos\programacao\IMPACTA\C#\NovasAulas\ProgramandoComCSharp\CSharp.Capitulo01.Sintaxe\obj\Debug\CSharp.Capitulo01.Sintaxe.exe
+D:\Cursos\programacao\IMPACTA\C#\NovasAulas\ProgramandoComCSharp\CSharp.Capitulo01.Sintaxe\obj\Debug\CSharp.Capitulo01.Sintaxe.pdb
