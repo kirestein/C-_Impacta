@@ -1,0 +1,16 @@
+D:\Cursos\programacao\IMPACTA\C#\NovasAulas\ProgramandoComCSharp\CSharp.Capitulo01.ValeTransporte\bin\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.exe
+D:\Cursos\programacao\IMPACTA\C#\NovasAulas\ProgramandoComCSharp\CSharp.Capitulo01.ValeTransporte\bin\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.deps.json
+D:\Cursos\programacao\IMPACTA\C#\NovasAulas\ProgramandoComCSharp\CSharp.Capitulo01.ValeTransporte\bin\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.runtimeconfig.json
+D:\Cursos\programacao\IMPACTA\C#\NovasAulas\ProgramandoComCSharp\CSharp.Capitulo01.ValeTransporte\bin\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.runtimeconfig.dev.json
+D:\Cursos\programacao\IMPACTA\C#\NovasAulas\ProgramandoComCSharp\CSharp.Capitulo01.ValeTransporte\bin\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.dll
+D:\Cursos\programacao\IMPACTA\C#\NovasAulas\ProgramandoComCSharp\CSharp.Capitulo01.ValeTransporte\bin\Debug\net5.0\ref\CSharp.Capitulo01.ValeTransporte.dll
+D:\Cursos\programacao\IMPACTA\C#\NovasAulas\ProgramandoComCSharp\CSharp.Capitulo01.ValeTransporte\bin\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.pdb
+D:\Cursos\programacao\IMPACTA\C#\NovasAulas\ProgramandoComCSharp\CSharp.Capitulo01.ValeTransporte\obj\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.csproj.AssemblyReference.cache
+D:\Cursos\programacao\IMPACTA\C#\NovasAulas\ProgramandoComCSharp\CSharp.Capitulo01.ValeTransporte\obj\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\programacao\IMPACTA\C#\NovasAulas\ProgramandoComCSharp\CSharp.Capitulo01.ValeTransporte\obj\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.AssemblyInfoInputs.cache
+D:\Cursos\programacao\IMPACTA\C#\NovasAulas\ProgramandoComCSharp\CSharp.Capitulo01.ValeTransporte\obj\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.AssemblyInfo.cs
+D:\Cursos\programacao\IMPACTA\C#\NovasAulas\ProgramandoComCSharp\CSharp.Capitulo01.ValeTransporte\obj\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.csproj.CoreCompileInputs.cache
+D:\Cursos\programacao\IMPACTA\C#\NovasAulas\ProgramandoComCSharp\CSharp.Capitulo01.ValeTransporte\obj\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.dll
+D:\Cursos\programacao\IMPACTA\C#\NovasAulas\ProgramandoComCSharp\CSharp.Capitulo01.ValeTransporte\obj\Debug\net5.0\ref\CSharp.Capitulo01.ValeTransporte.dll
+D:\Cursos\programacao\IMPACTA\C#\NovasAulas\ProgramandoComCSharp\CSharp.Capitulo01.ValeTransporte\obj\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.pdb
+D:\Cursos\programacao\IMPACTA\C#\NovasAulas\ProgramandoComCSharp\CSharp.Capitulo01.ValeTransporte\obj\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.genruntimeconfig.cache

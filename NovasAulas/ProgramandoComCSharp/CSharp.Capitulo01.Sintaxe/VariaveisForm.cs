@@ -59,6 +59,8 @@ namespace CSharp.Capitulo01.Sintaxe
 
             listBox1.Items.Add($"O resultado de {n1} - {n2} é igual a {resultado}");
 
+            listBox1.Items.Add(new String('-', 50));
+
         }
 
         private void multiplicacaoToolStripMenuItem_Click(object sender, EventArgs e)
@@ -69,6 +71,8 @@ namespace CSharp.Capitulo01.Sintaxe
             var resultado = n1 * n2;
 
             listBox1.Items.Add($"O resultado de {n1} vezes {n2} é igual a {resultado}");
+
+            listBox1.Items.Add(new String('-', 50));
 
         }
 
@@ -81,6 +85,8 @@ namespace CSharp.Capitulo01.Sintaxe
 
             listBox1.Items.Add($"O resultado de {n1} dividido {n2} é igual a {resultado}");
 
+            listBox1.Items.Add(new String('-', 50));
+
         }
 
         private void restoToolStripMenuItem_Click(object sender, EventArgs e)
@@ -91,6 +97,8 @@ namespace CSharp.Capitulo01.Sintaxe
             var resultado = n1 % n2;
 
             listBox1.Items.Add($"O resto da divisão de {n1} por {n2} é igual a {resultado}");
+
+            listBox1.Items.Add(new String('-', 50));    
 
         }
 
