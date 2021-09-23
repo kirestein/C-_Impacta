@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Cursos\\programacao\\IMPACTA\\C#\\Caixa_eletronico\\Caixa_eletronico\\Caixa_eletronico.csproj": {}
+    "E:\\Cursos\\programacao\\IMPACTA\\C#\\Caixa_eletronico\\Caixa_eletronico\\Caixa_eletronico.csproj": {}
   },
   "projects": {
-    "D:\\Cursos\\programacao\\IMPACTA\\C#\\Caixa_eletronico\\Caixa_eletronico\\Caixa_eletronico.csproj": {
+    "E:\\Cursos\\programacao\\IMPACTA\\C#\\Caixa_eletronico\\Caixa_eletronico\\Caixa_eletronico.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cursos\\programacao\\IMPACTA\\C#\\Caixa_eletronico\\Caixa_eletronico\\Caixa_eletronico.csproj",
+        "projectUniqueName": "E:\\Cursos\\programacao\\IMPACTA\\C#\\Caixa_eletronico\\Caixa_eletronico\\Caixa_eletronico.csproj",
         "projectName": "Caixa_eletronico",
-        "projectPath": "D:\\Cursos\\programacao\\IMPACTA\\C#\\Caixa_eletronico\\Caixa_eletronico\\Caixa_eletronico.csproj",
+        "projectPath": "E:\\Cursos\\programacao\\IMPACTA\\C#\\Caixa_eletronico\\Caixa_eletronico\\Caixa_eletronico.csproj",
         "packagesPath": "C:\\Users\\pride\\.nuget\\packages\\",
-        "outputPath": "D:\\Cursos\\programacao\\IMPACTA\\C#\\Caixa_eletronico\\Caixa_eletronico\\obj\\",
+        "outputPath": "E:\\Cursos\\programacao\\IMPACTA\\C#\\Caixa_eletronico\\Caixa_eletronico\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pride\\AppData\\Roaming\\NuGet\\NuGet.Config",

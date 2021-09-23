@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 
 namespace CSharp.Capitulo01.ValeTransporte
 {
@@ -18,7 +19,8 @@ namespace CSharp.Capitulo01.ValeTransporte
 
             Console.WriteLine($"Funcionário cadastrado com sucesso! /n  " +
                               $"Nome: {nome}. /n" +
-                              $"Salário: {salario}. ");
+                              $"Salário: {salario:c}. /n" +
+                              $"Desconto: {desconto:c} ");
 
 
             var comando = Console.ReadKey();

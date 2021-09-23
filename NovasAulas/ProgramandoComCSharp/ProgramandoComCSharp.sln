@@ -5,7 +5,22 @@ VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp.Capitulo01.Sintaxe", "CSharp.Capitulo01.Sintaxe\CSharp.Capitulo01.Sintaxe.csproj", "{1EBB294B-BAC5-4231-8D80-324CBC3D189E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp.Capitulo01.ValeTransporte", "CSharp.Capitulo01.ValeTransporte\CSharp.Capitulo01.ValeTransporte.csproj", "{5A314FA0-752A-4174-B790-F2256438D9DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp.Capitulo01.ValeTransporte", "CSharp.Capitulo01.ValeTransporte\CSharp.Capitulo01.ValeTransporte.csproj", "{5A314FA0-752A-4174-B790-F2256438D9DE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSahrp.Capitulo02.GeradorSenha", "CSahrp.Capitulo02.GeradorSenha\CSahrp.Capitulo02.GeradorSenha.csproj", "{729AE0FB-9BA8-4904-A5EC-C7CBE600EF44}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp.Capitulo02EstruturasDeControle.Testes", "CSharp.Capitulo02EstruturasDeControle.Testes\CSharp.Capitulo02EstruturasDeControle.Testes.csproj", "{C22134F3-46D7-4396-A258-D7FF4BFF1A89}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{117C0092-9D7E-4BA7-AB4D-8DF925F69BCC}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject1", "TestProject1\TestProject1.csproj", "{7A9AC38D-8C04-4E9B-998A-4951BF6249A1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Fintech", "Fintech", "{BF3AE404-57B8-41F3-8F1A-9A9801466F11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fintech.Dominio", "Fintech.Dominio\Fintech.Dominio.csproj", "{40647ADC-F018-45F3-9D6B-9CBF57D50DFD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,9 +36,28 @@ Global
 		{5A314FA0-752A-4174-B790-F2256438D9DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A314FA0-752A-4174-B790-F2256438D9DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A314FA0-752A-4174-B790-F2256438D9DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{729AE0FB-9BA8-4904-A5EC-C7CBE600EF44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{729AE0FB-9BA8-4904-A5EC-C7CBE600EF44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{729AE0FB-9BA8-4904-A5EC-C7CBE600EF44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{729AE0FB-9BA8-4904-A5EC-C7CBE600EF44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C22134F3-46D7-4396-A258-D7FF4BFF1A89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C22134F3-46D7-4396-A258-D7FF4BFF1A89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C22134F3-46D7-4396-A258-D7FF4BFF1A89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C22134F3-46D7-4396-A258-D7FF4BFF1A89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A9AC38D-8C04-4E9B-998A-4951BF6249A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A9AC38D-8C04-4E9B-998A-4951BF6249A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A9AC38D-8C04-4E9B-998A-4951BF6249A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A9AC38D-8C04-4E9B-998A-4951BF6249A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40647ADC-F018-45F3-9D6B-9CBF57D50DFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40647ADC-F018-45F3-9D6B-9CBF57D50DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40647ADC-F018-45F3-9D6B-9CBF57D50DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40647ADC-F018-45F3-9D6B-9CBF57D50DFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{40647ADC-F018-45F3-9D6B-9CBF57D50DFD} = {BF3AE404-57B8-41F3-8F1A-9A9801466F11}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {84DE2CC7-CB8B-4327-B7F7-B11F49071122}

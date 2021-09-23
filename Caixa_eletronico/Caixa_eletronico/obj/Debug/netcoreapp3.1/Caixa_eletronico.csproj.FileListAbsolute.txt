@@ -37,3 +37,16 @@ D:\Cursos\programacao\IMPACTA\C#\Caixa_eletronico\Caixa_eletronico\obj\Debug\net
 D:\Cursos\programacao\IMPACTA\C#\Caixa_eletronico\Caixa_eletronico\obj\Debug\netcoreapp3.1\Caixa_eletronico.dll
 D:\Cursos\programacao\IMPACTA\C#\Caixa_eletronico\Caixa_eletronico\obj\Debug\netcoreapp3.1\Caixa_eletronico.pdb
 D:\Cursos\programacao\IMPACTA\C#\Caixa_eletronico\Caixa_eletronico\obj\Debug\netcoreapp3.1\Caixa_eletronico.genruntimeconfig.cache
+E:\Cursos\programacao\IMPACTA\C#\Caixa_eletronico\Caixa_eletronico\bin\Debug\netcoreapp3.1\Caixa_eletronico.exe
+E:\Cursos\programacao\IMPACTA\C#\Caixa_eletronico\Caixa_eletronico\bin\Debug\netcoreapp3.1\Caixa_eletronico.deps.json
+E:\Cursos\programacao\IMPACTA\C#\Caixa_eletronico\Caixa_eletronico\bin\Debug\netcoreapp3.1\Caixa_eletronico.runtimeconfig.json
+E:\Cursos\programacao\IMPACTA\C#\Caixa_eletronico\Caixa_eletronico\bin\Debug\netcoreapp3.1\Caixa_eletronico.runtimeconfig.dev.json
+E:\Cursos\programacao\IMPACTA\C#\Caixa_eletronico\Caixa_eletronico\bin\Debug\netcoreapp3.1\Caixa_eletronico.dll
+E:\Cursos\programacao\IMPACTA\C#\Caixa_eletronico\Caixa_eletronico\bin\Debug\netcoreapp3.1\Caixa_eletronico.pdb
+E:\Cursos\programacao\IMPACTA\C#\Caixa_eletronico\Caixa_eletronico\obj\Debug\netcoreapp3.1\Caixa_eletronico.csproj.AssemblyReference.cache
+E:\Cursos\programacao\IMPACTA\C#\Caixa_eletronico\Caixa_eletronico\obj\Debug\netcoreapp3.1\Caixa_eletronico.AssemblyInfoInputs.cache
+E:\Cursos\programacao\IMPACTA\C#\Caixa_eletronico\Caixa_eletronico\obj\Debug\netcoreapp3.1\Caixa_eletronico.AssemblyInfo.cs
+E:\Cursos\programacao\IMPACTA\C#\Caixa_eletronico\Caixa_eletronico\obj\Debug\netcoreapp3.1\Caixa_eletronico.csproj.CoreCompileInputs.cache
+E:\Cursos\programacao\IMPACTA\C#\Caixa_eletronico\Caixa_eletronico\obj\Debug\netcoreapp3.1\Caixa_eletronico.dll
+E:\Cursos\programacao\IMPACTA\C#\Caixa_eletronico\Caixa_eletronico\obj\Debug\netcoreapp3.1\Caixa_eletronico.pdb
+E:\Cursos\programacao\IMPACTA\C#\Caixa_eletronico\Caixa_eletronico\obj\Debug\netcoreapp3.1\Caixa_eletronico.genruntimeconfig.cache

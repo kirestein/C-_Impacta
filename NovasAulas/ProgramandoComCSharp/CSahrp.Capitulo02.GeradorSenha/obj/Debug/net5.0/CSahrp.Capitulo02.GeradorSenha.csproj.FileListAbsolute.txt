@@ -1,0 +1,16 @@
+D:\Cursos\programacao\IMPACTA\C#\NovasAulas\ProgramandoComCSharp\CSahrp.Capitulo02.GeradorSenha\bin\Debug\net5.0\CSahrp.Capitulo02.GeradorSenha.exe
+D:\Cursos\programacao\IMPACTA\C#\NovasAulas\ProgramandoComCSharp\CSahrp.Capitulo02.GeradorSenha\bin\Debug\net5.0\CSahrp.Capitulo02.GeradorSenha.deps.json
+D:\Cursos\programacao\IMPACTA\C#\NovasAulas\ProgramandoComCSharp\CSahrp.Capitulo02.GeradorSenha\bin\Debug\net5.0\CSahrp.Capitulo02.GeradorSenha.runtimeconfig.json
+D:\Cursos\programacao\IMPACTA\C#\NovasAulas\ProgramandoComCSharp\CSahrp.Capitulo02.GeradorSenha\bin\Debug\net5.0\CSahrp.Capitulo02.GeradorSenha.runtimeconfig.dev.json
+D:\Cursos\programacao\IMPACTA\C#\NovasAulas\ProgramandoComCSharp\CSahrp.Capitulo02.GeradorSenha\bin\Debug\net5.0\CSahrp.Capitulo02.GeradorSenha.dll
+D:\Cursos\programacao\IMPACTA\C#\NovasAulas\ProgramandoComCSharp\CSahrp.Capitulo02.GeradorSenha\bin\Debug\net5.0\ref\CSahrp.Capitulo02.GeradorSenha.dll
+D:\Cursos\programacao\IMPACTA\C#\NovasAulas\ProgramandoComCSharp\CSahrp.Capitulo02.GeradorSenha\bin\Debug\net5.0\CSahrp.Capitulo02.GeradorSenha.pdb
+D:\Cursos\programacao\IMPACTA\C#\NovasAulas\ProgramandoComCSharp\CSahrp.Capitulo02.GeradorSenha\obj\Debug\net5.0\CSahrp.Capitulo02.GeradorSenha.csproj.AssemblyReference.cache
+D:\Cursos\programacao\IMPACTA\C#\NovasAulas\ProgramandoComCSharp\CSahrp.Capitulo02.GeradorSenha\obj\Debug\net5.0\CSahrp.Capitulo02.GeradorSenha.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\programacao\IMPACTA\C#\NovasAulas\ProgramandoComCSharp\CSahrp.Capitulo02.GeradorSenha\obj\Debug\net5.0\CSahrp.Capitulo02.GeradorSenha.AssemblyInfoInputs.cache
+D:\Cursos\programacao\IMPACTA\C#\NovasAulas\ProgramandoComCSharp\CSahrp.Capitulo02.GeradorSenha\obj\Debug\net5.0\CSahrp.Capitulo02.GeradorSenha.AssemblyInfo.cs
+D:\Cursos\programacao\IMPACTA\C#\NovasAulas\ProgramandoComCSharp\CSahrp.Capitulo02.GeradorSenha\obj\Debug\net5.0\CSahrp.Capitulo02.GeradorSenha.csproj.CoreCompileInputs.cache
+D:\Cursos\programacao\IMPACTA\C#\NovasAulas\ProgramandoComCSharp\CSahrp.Capitulo02.GeradorSenha\obj\Debug\net5.0\CSahrp.Capitulo02.GeradorSenha.dll
+D:\Cursos\programacao\IMPACTA\C#\NovasAulas\ProgramandoComCSharp\CSahrp.Capitulo02.GeradorSenha\obj\Debug\net5.0\ref\CSahrp.Capitulo02.GeradorSenha.dll
+D:\Cursos\programacao\IMPACTA\C#\NovasAulas\ProgramandoComCSharp\CSahrp.Capitulo02.GeradorSenha\obj\Debug\net5.0\CSahrp.Capitulo02.GeradorSenha.pdb
+D:\Cursos\programacao\IMPACTA\C#\NovasAulas\ProgramandoComCSharp\CSahrp.Capitulo02.GeradorSenha\obj\Debug\net5.0\CSahrp.Capitulo02.GeradorSenha.genruntimeconfig.cache
